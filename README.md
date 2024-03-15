@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lmcole27 a project manager by day, developing my coding skills by night.
+- 👋 Hi, I’m @lmcole27 a project manager by day, hacker by night.
 - 👀 I’m currently in learning to build web apps, mobile apps and also exploring datascience.
 - 🌱 I’m currently learning Python, Postgresql, Sqlite, HTML, CSS and Javascript. 
 - 💞️ I’m looking to collaborate on ...
