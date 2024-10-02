@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lmcole27 a project manager by day, hacker by night.
-- 👀 I’m currently learning to build web apps and am also exploring datascience.
-- 🌱 I’m currently learning Python, Postgresql, Sqlite, HTML, CSS and Javascript. 
+- 👋 Hi, I’m @lmcole27 a project manager turned hacker.
+- 👀 I build web apps and explore data.
+- 🌱 I’m learning Python, Postgresql, Sqlite, HTML, CSS and Javascript. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
