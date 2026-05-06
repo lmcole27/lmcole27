@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @lmcole27 a project manager turned hacker.
 - 👀 I build web apps and explore data.
-- 🌱 I’ve learned some Python, Postgresql, Sqlite, HTML, CSS and Javascript. 
-- 💞️ I’m looking to experiment in the maker space, created small, inexpensive devices I can use at home.
-
+- 🌱 I’ve learned some Python, Postgresql, Sqlite, NoSQL, HTML, CSS and Javascript. 
+- 💞️ I’m experimenting in the maker space, creating small, inexpensive devices I can use at home.
+- 💻 I'm exploring alternative inputs such as Computer vision and MediaPipe, and Doppler radar. 
+- 🕵🏻‍♀️ I'm a Codex fan and leverage OpenClaw Virtual Machine for personal productivity.
 
 <!---
 - 📫 How to reach me ...
