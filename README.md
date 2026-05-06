@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @lmcole27 a project manager turned hacker.
-- 👀 I build web apps and explore data.
-- 🌱 I’ve learned some Python, Postgresql, Sqlite, NoSQL, HTML, CSS and Javascript. 
-- 💞️ I’m experimenting in the maker space, creating small, inexpensive devices I can use at home.
-- 💻 I'm exploring alternative inputs such as Computer vision and MediaPipe, and Doppler radar. 
-- 🕵🏻‍♀️ I'm a Codex fan and leverage OpenClaw Virtual Machine for personal productivity.
+👋  Hi, I’m @lmcole27 a project manager turned creator.
+👀  I build Python Flask web apps.
+🌱  I’ve learned Python, Postgresql, Sqlite, NoSQL, HTML, CSS and Javascript. 
+💞️  I’m experimenting in the maker space, creating small, inexpensive devices.
+💻  I'm exploring alternative inputs such as Computer Vision and MediaPipe, and Doppler Radar. 
+🕵🏻‍♀️  I'm a Codex fan and leverage OpenClaw Virtual Machine for personal productivity.
 
 <!---
 - 📫 How to reach me ...
