@@ -3,7 +3,7 @@
 <p>🌱  I’ve learned Python, Postgresql, Sqlite, NoSQL, HTML, CSS and Javascript. </p>
 <p>💞️  I’m experimenting in the maker space, creating small, inexpensive devices.</p>
 <p>💻  I'm exploring alternative inputs such as Computer Vision and MediaPipe, and Doppler Radar. <p>
-<p>🕵🏻‍♀️  I'm a Codex fan and leverage OpenClaw Virtual Machine for personal productivity.<p>
+<p>🕵🏻‍♀️  I'm a Codex fan and leverage OpenClaw on a Virtual Machine for personal productivity.<p>
 
 <!---
 - 📫 How to reach me ...
